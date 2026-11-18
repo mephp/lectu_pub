@@ -1,0 +1,13 @@
+{
+  "version": "0.1.1",
+  "notes": "Lectu v0.1.1",
+  "pub_date": "2026-11-18T12:45:35Z",
+  "platforms": {
+    "darwin-aarch64": { "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.1/Lectu_0.1.1_aarch64.dmg", "signature": "" },
+    "linux-x86_64-appimage": { "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.1/Lectu_0.1.1_amd64.AppImage", "signature": "" },
+    "linux-x86_64-deb": { "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.1/Lectu_0.1.1_amd64.deb", "signature": "" },
+    "windows-x86_64": { "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.1/Lectu_0.1.1_x64-setup.exe", "signature": "" },
+    "darwin-x86_64": { "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.1/Lectu_0.1.1_x64.dmg", "signature": "" },
+    "windows-x86_64-portable": { "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.1/lectu_0.1.1_x64-portable.zip", "signature": "" }
+  }
+}
