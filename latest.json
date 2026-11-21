@@ -1,13 +1,106 @@
 {
-  "version": "0.1.1",
-  "notes": "Lectu v0.1.1",
-  "pub_date": "2026-11-18T12:45:35Z",
+  "version": "0.1.2",
+  "notes": "Lectu v0.1.2",
+  "pub_date": "2026-11-21T15:44:43Z",
   "platforms": {
-    "darwin-aarch64": { "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.1/Lectu_0.1.1_aarch64.dmg", "signature": "" },
-    "linux-x86_64-appimage": { "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.1/Lectu_0.1.1_amd64.AppImage", "signature": "" },
-    "linux-x86_64-deb": { "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.1/Lectu_0.1.1_amd64.deb", "signature": "" },
-    "windows-x86_64": { "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.1/Lectu_0.1.1_x64-setup.exe", "signature": "" },
-    "darwin-x86_64": { "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.1/Lectu_0.1.1_x64.dmg", "signature": "" },
-    "windows-x86_64-portable": { "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.1/lectu_0.1.1_x64-portable.zip", "signature": "" }
-  }
+    "windows-x86_64": {
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_0.1.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQysrN0w1WmpVSzJDQlI2elFtU295cFA1MWNwL3hzMGhacTZjN0pGM1FweGU0dm16czJKTitjUkp5Z083SW5oekoyeGlHKzBZUlp1NDFKU25zbEFkUFhDNVlDSW9tYWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjc1NzkwCWZpbGU6TGVjdHVfMC4xLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yCmFhK3hxYWwyZ3pkM1NjbkNLVzZkTW81QnNocFlkZEtlb29jQ2I2WmVXZ1E2WTlQNjNmby9iM3kyYmZwYUJDeUxFZ091QmlaaW9BQXl0UjBQRVAveEFBPT0K"
+    },
+    "darwin-aarch64": {
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQysrN0w1WmpVSzVqSGJSYUdGc01xM3lCYk5OcVdDK3dQZXdKYndUaForOUpNenpCNVNJZnk2RTU3cE1objQxRklWRDc2cSs0Mk9RUHNBQzl6QVA1b1U2OUN2bnNHYWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjc1MjgzCWZpbGU6TGVjdHUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4yCjJqVXpoaVdjU2pjYm5nSFZLTHZPSG11TUZKTEJ2VUFscitOZWtZTy9IUHVmK1kzb0lmOVFESUtKVVVQckMxeUpOa1l3d2ZqMVpVdWsySGRXdXNlckFBPT0K"
+    },
+    "linux-x86_64": {
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_0.1.2_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQysrN0w1WmpVS3hjeVBlSE1STSsxNnR4aGVhZ29OWVlTTUVJTDFaSEQvVm1CWkV3T2VKRW10QzN5ZTR4WkJyc3lWbTBzSkJFeXNsM3BnTHZ0b21CRUZsRTJ6YmpKVHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjc1NjM5CWZpbGU6TGVjdHVfMC4xLjJfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuMgpFWlJaUC9wWU1xRUdrcGFybmZmWXYrc0V2QWxkRko2TW9vMUY5UVJDK2R5K2VYK1Q5ZG5RZGE2QnVFSkNSOFhsSFQ1anpWQUREaGJBb0pEZDA3TzJEZz09Cg=="
+    }
+  },
+  "files": [
+    {
+      "name": "Lectu_0.1.2_aarch64.dmg",
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_0.1.2_aarch64.dmg",
+      "size": 8421525
+    },
+    {
+      "name": "Lectu_0.1.2_amd64.AppImage",
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_0.1.2_amd64.AppImage",
+      "size": 85760504
+    },
+    {
+      "name": "Lectu_0.1.2_amd64.AppImage.sig",
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_0.1.2_amd64.AppImage.sig",
+      "size": 436
+    },
+    {
+      "name": "Lectu_0.1.2_amd64.deb",
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_0.1.2_amd64.deb",
+      "size": 7202150
+    },
+    {
+      "name": "Lectu_0.1.2_amd64.deb.sig",
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_0.1.2_amd64.deb.sig",
+      "size": 428
+    },
+    {
+      "name": "Lectu_0.1.2_arm64-setup.exe",
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_0.1.2_arm64-setup.exe",
+      "size": 6469937
+    },
+    {
+      "name": "Lectu_0.1.2_arm64-setup.exe.sig",
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_0.1.2_arm64-setup.exe.sig",
+      "size": 436
+    },
+    {
+      "name": "Lectu_0.1.2_arm64.deb",
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_0.1.2_arm64.deb",
+      "size": 7102774
+    },
+    {
+      "name": "Lectu_0.1.2_arm64.deb.sig",
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_0.1.2_arm64.deb.sig",
+      "size": 428
+    },
+    {
+      "name": "Lectu_0.1.2_x64-setup.exe",
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_0.1.2_x64-setup.exe",
+      "size": 6645023
+    },
+    {
+      "name": "Lectu_0.1.2_x64-setup.exe.sig",
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_0.1.2_x64-setup.exe.sig",
+      "size": 432
+    },
+    {
+      "name": "Lectu_0.1.2_x64.dmg",
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_0.1.2_x64.dmg",
+      "size": 8665040
+    },
+    {
+      "name": "Lectu_aarch64.app.tar.gz",
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_aarch64.app.tar.gz",
+      "size": 7693190
+    },
+    {
+      "name": "Lectu_aarch64.app.tar.gz.sig",
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_aarch64.app.tar.gz.sig",
+      "size": 420
+    },
+    {
+      "name": "Lectu_x64.app.tar.gz",
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_x64.app.tar.gz",
+      "size": 7943585
+    },
+    {
+      "name": "Lectu_x64.app.tar.gz.sig",
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/Lectu_x64.app.tar.gz.sig",
+      "size": 420
+    },
+    {
+      "name": "lectu_0.1.2_x64-portable.zip",
+      "url": "https://raw.githubusercontent.com/mephp/lectu_pub/main/v0.1.2/lectu_0.1.2_x64-portable.zip",
+      "size": 7011904
+    }
+  ]
 }
